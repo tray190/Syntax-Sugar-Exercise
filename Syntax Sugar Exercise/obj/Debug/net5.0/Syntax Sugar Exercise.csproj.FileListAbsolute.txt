@@ -1,0 +1,16 @@
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\Syntax Sugar Exercise.exe
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\Syntax Sugar Exercise.deps.json
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\Syntax Sugar Exercise.runtimeconfig.json
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\Syntax Sugar Exercise.runtimeconfig.dev.json
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\Syntax Sugar Exercise.dll
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\ref\Syntax Sugar Exercise.dll
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\net5.0\Syntax Sugar Exercise.pdb
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.csproj.AssemblyReference.cache
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.AssemblyInfoInputs.cache
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.AssemblyInfo.cs
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.csproj.CoreCompileInputs.cache
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.dll
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\ref\Syntax Sugar Exercise.dll
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.pdb
+C:\Users\bellt\Desktop\repos10\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\net5.0\Syntax Sugar Exercise.genruntimeconfig.cache
